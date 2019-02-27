@@ -1,1 +1,1 @@
-Light Sonar-Scanner image dor CI/CD purposes.
+Light Sonar-Scanner image with NodeJS for CI/CD purposes.
